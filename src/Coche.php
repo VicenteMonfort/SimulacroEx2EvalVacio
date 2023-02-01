@@ -17,7 +17,7 @@ class Coche
 
     public function reposta($a){
 
-        return $this->autonomia+$a;
+        return $this->autonomia-$a;
     }
 
     public function circula($a){
