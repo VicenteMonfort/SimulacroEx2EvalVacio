@@ -5,7 +5,12 @@ include './src/Coche.php';
 
 class cocheTest extends TestCase {
 
-   #Aquí deberás de escribir al menos 2 tests
+   public function testReposta() {
+       
+      $objeto = new Coche("Ferrari", "petroleo", 50, 0);
+      $this->assertEquals(100, $objeto->reposta(50));
+
+  }
 
        
 }
