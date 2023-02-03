@@ -8,3 +8,4 @@ Deberás de:
   -Establecer CD de manera que cuando sean exitosas las pruebas se cree una imagen en DockerHub guardando el histórico de imágenes que se van generando.
   
   Probando actions por petición de la clase. Cambiando versión de la action de phpunit en el yml.
+.
