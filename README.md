@@ -7,4 +7,4 @@ Deberás de:
   -Establecer CI de manera que se automaticen los tests que has creado
   -Establecer CD de manera que cuando sean exitosas las pruebas se cree una imagen en DockerHub guardando el histórico de imágenes que se van generando.
   
-  Probando actions por petición de Raül (3/2/11:38)
+  Probando actions por petición de la clase. Cambiando versión de la action de phpunit en el yml.
